@@ -1,0 +1,10 @@
+{
+    "email": "gustavo0112.2015.pom@gmail.com",
+    "password": "Mexico_2024",
+    "format": 5,
+    "outPath": "/content/drive/MyDrive/Hi-Res 4",
+    "albumTemplate": "{{.albumArtist}} - {{.album}}",
+    "trackTemplate": "{{.trackPad}}. {{.title}}",
+    "keepCover": true,
+    "useFFmpegEnvVar": false
+}
